@@ -1,4 +1,4 @@
-Code for Gradient-Based Training of Gaussian Mixture Models for High-Dimensional Streaming Data (NIPS2020)
+Code for Gradient-Based Training of Gaussian Mixture Models for High-Dimensional Streaming Data
 
 ### Dependencies
 Tested with Python 3.7+ and tensorflow-gpu 1.14 (Linux and Windows)
